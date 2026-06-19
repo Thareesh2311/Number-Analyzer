@@ -6,4 +6,3 @@ Reverse
 Whether palindrome
 Whether Armstrong
 
-one input → multiple analyses
